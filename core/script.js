@@ -7,7 +7,7 @@ class Dish {
     _dish = false
     _conference = false
     _cameras = 15
-    _margin = 10
+    _margin = 0
     _aspect = 0
     _video = false;
     _ratio = this.ratio() // to perfomance call here
